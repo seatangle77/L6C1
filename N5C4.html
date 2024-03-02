@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+
+<script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+
+    </head>
+    <body>
+<a-scene>
+    <!-- Asset Management System -->
+    <a-assets>
+        <a-assets-item id="concert" src="scene.gltf"></a-assets-item>
+    </a-assets>
+    <!-- Sky-->
+
+    <a-entity position="0 1 2" rotation="0 0 0">
+        <a-camera position="0 1 2"></a-camera>
+    </a-entity>
+
+<a-cylinder color="red" radius="0.3" height="0.3" position="0 1 2"
+animation__drive="dur:8000; easing: linear; from:1 1 1; to: -1 -1 -1; loop: -1; property: position"
+>
+</a-cylinder>
+
+
+    <a-entity gltf-model="#concert"></a-entity>
+ 
+
+</a-scene>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Rolling Stones
+* source:	https://sketchfab.com/3d-models/the-rolling-stones-7a41e78c82ae49dfb4ec14d3db1027cc
+* author:	TG13730 (https://sketchfab.com/TG13730)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Rolling Stones" (https://sketchfab.com/3d-models/the-rolling-stones-7a41e78c82ae49dfb4ec14d3db1027cc) by TG13730 (https://sketchfab.com/TG13730) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
